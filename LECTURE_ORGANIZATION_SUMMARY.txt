@@ -1,0 +1,42 @@
+Lecture Organization Summary
+==============================
+
+Total Lectures: 28
+Date Range: April 2 - June 4
+
+Each lecture folder contains:
+- Corresponding PDF text files (readings)
+- Corresponding PPTX text files (slides)
+
+Folder naming convention:
+lectures/##_topic_description_date/
+
+Created lecture folders:
+01_african_music_apr02
+02_early_secular_music_apr04
+03_spirituals_apr07
+04_ragtime_apr09
+05_minstrelsy_part1_apr11
+06_minstrelsy_part2_apr14
+07_womens_blues_early_jazz_apr16
+08_early_blues_apr18
+09_recording_music_race_apr21
+10_blues_migration_chicago_apr23
+11_blues_migration_memphis_texas_west_apr25
+12_jazz_swing_apr28
+13_jazz_bebop_apr30
+14_cool_jazz_may02
+15_midterm_exam_may05
+16_gospel_may07
+17_soul_may09
+18_soul_james_brown_may12
+19_rhythm_and_blues_may14
+20_early_rock_n_roll_may16
+21_motown_may19
+22_motown_supremes_may21
+23_funk_dance_music_may23
+24_memorial_day_may26
+25_dance_pop_rock_may28
+26_rock_hendrix_may30
+27_rap_history_jun02
+28_rap_violence_jun04
